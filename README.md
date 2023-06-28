@@ -1,1 +1,3 @@
-My first readme
+# ALX INTRODUCTION COURSEWORK
+
+Becoming grittier
